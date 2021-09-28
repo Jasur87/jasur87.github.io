@@ -1,3 +1,3 @@
 # jasur87.github.io
 my web site 
-![alt text](http://pics/to/img.png)
+![Alt text](relative/pics/to/img.jpg?raw=true "Title")
