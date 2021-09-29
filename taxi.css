@@ -221,6 +221,7 @@ nav ul {
 
 .button {
   text-transform: uppercase;
+  text-decoration: none;
   position: absolute;
   width: 74px;
   height: 22px;
@@ -237,6 +238,8 @@ nav ul {
   height: 48px;
   left: 1021px;
   top: 1011px;
+  text-align: center;
+  padding-top: 13px;
   background: #ffc700;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.86);
   border-radius: 11px;
