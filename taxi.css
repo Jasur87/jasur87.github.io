@@ -173,6 +173,7 @@ nav ul {
 
 .cta {
   position: absolute;
+  text-decoration: none;
   width: 117px;
   height: 22px;
   left: 220px;
