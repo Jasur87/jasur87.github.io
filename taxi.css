@@ -1047,20 +1047,24 @@ nav ul {
 
 .android-button .and {
   position: absolute;
+  text-align: center;
+  padding-top: 9px;
   width: 160px;
   height: 38px;
   left: 300px;
   top: 2960px;
   background: black;
-  color: #ffffff;
   border-radius: 19px;
-  cursor: pointer;
+ 
 }
 
-.and span {
+.and .play {
   padding-left: 35px;
   font-size: 14px;
   letter-spacing: 1px;
+  color: #ffffff;
+  font-family: "Montserrat";
+  text-decoration: none;
 }
 
 .app-store .app-s img {
@@ -1078,15 +1082,19 @@ nav ul {
   left: 500px;
   top: 2960px;
   background: black;
-  color: #ffffff;
   border-radius: 19px;
-  cursor: pointer;
+ 
 }
 
-.app-s span {
+.app-s .store {
   padding-left: 35px;
   font-size: 14px;
   letter-spacing: 1px;
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 1.5em;
+  height: 38px;
+  margin-top: 0.6em;
 }
 
 #call {
