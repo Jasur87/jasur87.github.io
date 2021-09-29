@@ -1087,6 +1087,7 @@ nav ul {
 }
 
 .app-s .store {
+  position: absolute;
   padding-left: 35px;
   font-size: 14px;
   letter-spacing: 1px;
