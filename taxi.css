@@ -177,10 +177,12 @@ nav ul {
   height: 22px;
   left: 220px;
   top: 1026px;
-  font-family: Montserrat;
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
+  text-align: center;
+  padding-top: 13px;
   line-height: 22px;
   text-transform: uppercase;
   color: #ffffff;
