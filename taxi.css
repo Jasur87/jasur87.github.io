@@ -10,7 +10,7 @@ body {
   min-width: 1349px;
 }
 
-#hero {
+.hero {
   height: 100vh;
   width: 1349px;
   background-image: url(pics/image\ 1.jpg);
@@ -20,7 +20,7 @@ body {
   z-index: 1;
 }
 
-#hero::after {
+.hero::after {
   content: "";
   position: absolute;
   left: 0;
